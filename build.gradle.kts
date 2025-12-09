@@ -1,4 +1,4 @@
 plugins {
-    alias(libs.plugins.androidKotlinMultiplatformLibrary).apply(false)
-    alias(libs.plugins.kotlinMultiplatform).apply(false)
+//    id("org.jetbrains.kotlin.multiplatform").apply(false)
+//    id("com.android.library").apply(false)
 }
