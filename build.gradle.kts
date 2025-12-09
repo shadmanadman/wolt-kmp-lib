@@ -24,7 +24,7 @@ kotlin {
 
     sourceSets{
         commonMain.dependencies {  }
-        androidMain.dependencies {  }
+        androidMain.dependencies { }
         iosMain.dependencies {  }
     }
 }
