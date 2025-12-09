@@ -26,3 +26,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "wolt-kmp-lib"
+include(":lib")
